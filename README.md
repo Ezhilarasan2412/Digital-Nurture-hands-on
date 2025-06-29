@@ -9,7 +9,7 @@ Over 8 intensive weeks, this program covered a wide spectrum of Java full stack 
 
 ### 📘 Week 1: Design Principles & Patterns
 - SOLID principles
-- Common OO design patterns (Singleton, Factory, Strategy, etc.)
+- Common  design patterns (Singleton, Factory, Strategy, etc.)
 
 ### 💾 Week 2: Backend Programming & Testing
 - PL/SQL programming
